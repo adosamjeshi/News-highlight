@@ -1,5 +1,5 @@
 # News Highlight
-#### An application that will help them list and preview news articles from various sources. , 29th July 2019
+#### An application that will help them list and preview news articles from various sources. , 2020
 #### By **{List of contributors}**
 ## Description
  An application that will help them list and preview news articles from various sources.The application shows various news sources on the homepage and allows selection of news sources.
@@ -21,11 +21,11 @@ An application that will help them list and preview news articles from various s
 ## User Interface Logic
 The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
 ## Support and contact details
-If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
+If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email adosamjeshi@gmail.com
 ### License
 *{MIT License
 
-Copyright (c) [2019] [Adan mohamed]
+Copyright (c) [2020] [Adan mohamed]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -44,4 +44,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.}*
-Copyright (c) {2019} **{Adan mohamed**
+Copyright (c) {2020} **{Adan mohamed**
